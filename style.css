@@ -1,9 +1,12 @@
 h1 {
-  color: red;
+  color: blue;
   font-size 5em;
+  border-left: solid blue;
+  padding-left: 0.5em;
 }
 
 p {
   color: green;
   background-color: black;
+ padding-left: 0.5em;
 }
