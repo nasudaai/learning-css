@@ -5,6 +5,10 @@ h1 {
   padding-left: 0.5em;
 }
 
+a {
+  color:blue;
+  text-decoration-color: blue;
+}
 p {
   color: green;
   background-color: black;

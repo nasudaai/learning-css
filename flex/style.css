@@ -7,6 +7,25 @@ a {
   display: flex;
 }
 
+.wrapper > div {
+  flex: 1;
+}
+
+
 .box1 {
-  background-color: #aae9aa;
+  border-radius: 10%;
+  background-color: #aae9ff;
+  padding: 4px 8px;
+}
+
+.box2 {
+  border-radius: 10%;
+  background-color: #aae9ff;
+  padding: 4px 8px;
+}
+
+.box3 {
+  border-radius: 10%;
+  background-color: #aae9ff;
+  padding: 4px 8px;
 }
